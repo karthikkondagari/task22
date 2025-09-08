@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 klmdlk
+=======
+.kjnjsdfpkmldsfm
+>>>>>>> first1

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 iujsf
+=======
+kfmdk
+>>>>>>> first1

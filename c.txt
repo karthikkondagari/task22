@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dsjndsok
+=======
+;moidsnmnfd
+>>>>>>> first1

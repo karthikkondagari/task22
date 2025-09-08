@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 oimids
+=======
+lkmkrfd
+>>>>>>> first1
